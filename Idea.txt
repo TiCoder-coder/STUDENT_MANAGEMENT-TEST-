@@ -1,0 +1,3 @@
+Table: Ma_lop_HP, Ten_mon_hoc, Lop_hoc, Tin_Chi, Gioi_han_so_tin_chi, Sinh vien, Giang vien
+
+Layer: Controller -> Middleware -> Service -> Dtos -> Repositories -> Database
